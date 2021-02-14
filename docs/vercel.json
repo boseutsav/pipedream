@@ -61,5 +61,6 @@
       "destination": "https://pipedream.com/apps/zoho_mail"
     },
     { "source": "/support", "destination": "https://pipedream.com/support" }
-  ]
+  ],
+  "khepa" : "chompa"
 }
